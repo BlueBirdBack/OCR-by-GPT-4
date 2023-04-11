@@ -1,6 +1,6 @@
 # OCR Script Written by GPT-4
 
-A Python script written by GPT-4 that can perform Optical Character Recognition (OCR).
+A Python script written by GPT-4 that can perform Optical Character Recognition (OCR) for both English and Chinese characters.
 
 ## Getting started
 
